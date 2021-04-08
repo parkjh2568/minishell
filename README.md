@@ -4,4 +4,10 @@
 -----
 팀으로 진행된프로젝트로 나의파트는 built_in 부분이다
 
+```
+git clone https://github.com/parkjh2568/8.minishell.git
+cd 8.minishell
+make re
+./minishell
+```
 -----
