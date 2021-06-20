@@ -5,12 +5,6 @@
 bash_shell 구현
 
 -----
-팀으로 진행된프로젝트로
-
-2명이서 2파트로 나눠서진행
-
-리다이렉션파트 -> honlee</br>
-빌트인파트 -> junhypar
 
 ```
 git clone https://github.com/parkjh2568/8.minishell.git
@@ -19,3 +13,10 @@ make re
 ./minishell
 ```
 -----
+
+팀으로 진행된프로젝트로
+
+2명이서 2파트로 나눠서진행
+
+리다이렉션파트 -> honlee</br>
+빌트인파트 -> junhypar
